@@ -1,0 +1,652 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.4)  10 FEB 2021 10:02
+entering extended mode
+**"./Notes on Multivariable Calculus.tex"
+("Notes on Multivariable Calculus.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.s
+ty"
+Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.s
+ty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.s
+ty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftex
+cmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infware
+rr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetke
+ys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvde
+finekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfesca
+pe.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxm
+acro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions
+.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count175
+\Hy@pagecounter=\count176
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.s
+ty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds
+.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count177
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count178
+ ("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen136
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigint
+calc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count179
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/atbegshi\atbegshi
+.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count180
+\c@Item=\count181
+\c@Hfootnote=\count182
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.de
+f"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/atveryend\atveryend
+.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count183
+\c@bookmark@seq@number=\count184
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\reru
+nfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uni
+quecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex
+.def"
+File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
+\BKM@id=\count185
+))
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.s
+ty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count186
+\Gm@cntv=\count187
+\c@Gm@tempcnt=\count188
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks16
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.c
+fg"))
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen149
+))
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen150
+) ("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count189
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count190
+\leftroot@=\count191
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count192
+\DOTSCASE@=\count193
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count194
+\c@MaxMatrixCols=\count195
+\dotsspace@=\muskip17
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks18
+\row@=\count198
+\column@=\count199
+\maxfields@=\count266
+\andhelp@=\toks19
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.st
+y"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.s
+ty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count267
+\float@exts=\toks22
+\float@box=\box47
+\@float@everytoks=\toks23
+\@floatcapt=\box48
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
+-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count268
+\l__pdf_internal_box=\box49
+) ("Notes on Multivariable Calculus.aux")
+\openout1 = `"Notes on Multivariable Calculus.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+\AtBeginShipoutBox=\box50
+Package hyperref Info: Link coloring OFF on input line 9.
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.st
+y"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.s
+ty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\ge
+ttitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count269
+)
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen158
+\scratchbox=\box51
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen159
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks25
+)
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
+df-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
+
+
+("C:\Users\Batu Cem\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<C.png, id=3, 784.43062pt x 423.83344pt>
+File: C.png Graphic file (type png)
+<use C.png>
+Package pdftex.def Info: C.png  used on input line 14.
+(pdftex.def)             Requested size: 392.21434pt x 211.91618pt.
+
+[1
+
+{C:/Users/Batu Cem/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./C.png>]
+("Notes on Multivariable Calculus.toc" [2])
+\tf@toc=\write3
+\openout3 = `"Notes on Multivariable Calculus.toc"'.
+
+ [3] [4]
+<line.png, id=144, 713.66624pt x 198.7425pt>
+File: line.png Graphic file (type png)
+<use line.png>
+Package pdftex.def Info: line.png  used on input line 61.
+(pdftex.def)             Requested size: 392.51764pt x 109.3087pt.
+<plane.png, id=145, 568.37344pt x 589.4522pt>
+File: plane.png Graphic file (type png)
+<use plane.png>
+Package pdftex.def Info: plane.png  used on input line 67.
+(pdftex.def)             Requested size: 397.8587pt x 412.61372pt.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{equation.1
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.69 E
+      quation is derived from the fact $\vec n \dotp (\vec r - \vec r_0)=0$. <.
+/line.png>] [6 <./plane.png>]
+<pln.png, id=159, 557.83406pt x 420.82219pt>
+File: pln.png Graphic file (type png)
+<use pln.png>
+Package pdftex.def Info: pln.png  used on input line 77.
+(pdftex.def)             Requested size: 398.84833pt x 300.88557pt.
+ [7 <./pln.png>]
+<lnln.png, id=166, 544.28343pt x 606.01407pt>
+File: lnln.png Graphic file (type png)
+<use lnln.png>
+Package pdftex.def Info: lnln.png  used on input line 86.
+(pdftex.def)             Requested size: 353.78004pt x 393.90448pt.
+ [8 <./lnln.png>]
+<pointplane.png, id=172, 443.40656pt x 405.76593pt>
+File: pointplane.png Graphic file (type png)
+<use pointplane.png>
+Package pdftex.def Info: pointplane.png  used on input line 95.
+(pdftex.def)             Requested size: 310.38248pt x 284.03421pt.
+ [9 <./pointplane.png>] [10]
+<cone.png, id=182, 509.65407pt x 472.01344pt>
+File: cone.png Graphic file (type png)
+<use cone.png>
+Package pdftex.def Info: cone.png  used on input line 121.
+(pdftex.def)             Requested size: 356.7554pt x 330.40715pt.
+ [11 <./cone.png>]
+<paraboloid.png, id=189, 573.64313pt x 528.47438pt>
+File: paraboloid.png Graphic file (type png)
+<use paraboloid.png>
+Package pdftex.def Info: paraboloid.png  used on input line 125.
+(pdftex.def)             Requested size: 372.86362pt x 343.50427pt.
+ [12 <./paraboloid.png>]
+<hy_1.png, id=196, 525.46312pt x 497.60907pt>
+File: hy_1.png Graphic file (type png)
+<use hy_1.png>
+Package pdftex.def Info: hy_1.png  used on input line 130.
+(pdftex.def)             Requested size: 388.84464pt x 368.23253pt.
+ [13 <./hy_1.png>]
+<hy_2.png, id=204, 469.00218pt x 491.58656pt>
+File: hy_2.png Graphic file (type png)
+<use hy_2.png>
+Package pdftex.def Info: hy_2.png  used on input line 135.
+(pdftex.def)             Requested size: 351.75078pt x 368.68901pt.
+
+[14 <./hy_2.png>]
+<ellipsoid.png, id=212, 405.01312pt x 343.2825pt>
+File: ellipsoid.png Graphic file (type png)
+<use ellipsoid.png>
+Package pdftex.def Info: ellipsoid.png  used on input line 140.
+(pdftex.def)             Requested size: 283.50723pt x 240.2961pt.
+<saddle.png, id=213, 877.77937pt x 658.71094pt>
+File: saddle.png Graphic file (type png)
+<use saddle.png>
+Package pdftex.def Info: saddle.png  used on input line 144.
+(pdftex.def)             Requested size: 351.10553pt x 263.4797pt.
+ [15 <./ellipsoid.png> <./saddle.png>]
+<sphere.png, id=221, 752.8125pt x 565.36218pt>
+File: sphere.png Graphic file (type png)
+<use sphere.png>
+Package pdftex.def Info: sphere.png  used on input line 148.
+(pdftex.def)             Requested size: 376.40532pt x 282.68039pt.
+ [16 <./sphere.png>]
+<levelcurve.png, id=228, 1280.53406pt x 904.1278pt>
+File: levelcurve.png Graphic file (type png)
+<use levelcurve.png>
+Package pdftex.def Info: levelcurve.png  used on input line 163.
+(pdftex.def)             Requested size: 384.16318pt x 271.24043pt.
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.167 \newpage
+               <./levelcurve.png>]
+<levelsurf.png, id=235, 597.73312pt x 558.58687pt>
+File: levelsurf.png Graphic file (type png)
+<use levelsurf.png>
+Package pdftex.def Info: levelsurf.png  used on input line 174.
+(pdftex.def)             Requested size: 394.50508pt x 368.66847pt.
+ [18pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.178 \newpage
+               <./levelsurf.png>] [19]
+<innerloop.png, id=249, 529.98pt x 525.46312pt>
+File: innerloop.png Graphic file (type png)
+<use innerloop.png>
+Package pdftex.def Info: innerloop.png  used on input line 192.
+(pdftex.def)             Requested size: 370.98346pt x 367.82167pt.
+ [20 <./innerloop.png>]
+<dimple.png, id=256, 564.60938pt x 505.89pt>
+File: dimple.png Graphic file (type png)
+<use dimple.png>
+Package pdftex.def Info: dimple.png  used on input line 197.
+(pdftex.def)             Requested size: 388.45229pt x 348.05324pt.
+ [21 <./dimple.png>]
+<convex_lim.png, id=262, 553.31718pt x 545.03625pt>
+File: convex_lim.png Graphic file (type png)
+<use convex_lim.png>
+Package pdftex.def Info: convex_lim.png  used on input line 202.
+(pdftex.def)             Requested size: 387.31938pt x 381.52278pt.
+ [22 <./convex_lim.png>]
+<cardioid.png, id=268, 536.0025pt x 536.0025pt>
+File: cardioid.png Graphic file (type png)
+<use cardioid.png>
+Package pdftex.def Info: cardioid.png  used on input line 207.
+(pdftex.def)             Requested size: 268.0006pt x 268.0006pt.
+ [23 <./cardioid.png>]
+<rose.png, id=275, 527.72156pt x 534.49687pt>
+File: rose.png Graphic file (type png)
+<use rose.png>
+Package pdftex.def Info: rose.png  used on input line 212.
+(pdftex.def)             Requested size: 316.63538pt x 320.70059pt.
+ [24 <./rose.png>]
+<lemniscate.png, id=282, 678.28406pt x 409.53pt>
+File: lemniscate.png Graphic file (type png)
+<use lemniscate.png>
+Package pdftex.def Info: lemniscate.png  used on input line 216.
+(pdftex.def)             Requested size: 386.62593pt x 233.43452pt.
+ [25 <./lemniscate.png>]
+<cylindr_co.png, id=293, 514.92375pt x 324.46219pt>
+File: cylindr_co.png Graphic file (type png)
+<use cylindr_co.png>
+Package pdftex.def Info: cylindr_co.png  used on input line 236.
+(pdftex.def)             Requested size: 411.93954pt x 259.57008pt.
+ [26 <./cylindr_co.png>]
+<spherical_co.png, id=299, 633.11531pt x 452.4403pt>
+File: spherical_co.png Graphic file (type png)
+<use spherical_co.png>
+Package pdftex.def Info: spherical_co.png  used on input line 241.
+(pdftex.def)             Requested size: 411.52007pt x 294.08272pt.
+ [27 <./spherical_co.png>] [28] [29]
+[30] [31] [32]
+<Rbox.png, id=350, 280.47865pt x 175.29916pt>
+File: Rbox.png Graphic file (type png)
+<use Rbox.png>
+Package pdftex.def Info: Rbox.png  used on input line 343.
+(pdftex.def)             Requested size: 415.10616pt x 259.44135pt.
+ [33 <./Rbox.png>]
+<ysimple.png, id=356, 1027.58907pt x 1307.63531pt>
+File: ysimple.png Graphic file (type png)
+<use ysimple.png>
+Package pdftex.def Info: ysimple.png  used on input line 351.
+(pdftex.def)             Requested size: 369.93178pt x 470.74837pt.
+ [34 <./ysimple.png>]
+<xsimple.png, id=363, 1105.88156pt x 1376.89406pt>
+File: xsimple.png Graphic file (type png)
+<use xsimple.png>
+Package pdftex.def Info: xsimple.png  used on input line 357.
+(pdftex.def)             Requested size: 387.06435pt x 481.92014pt.
+ [35 <./xsimple.png>]
+<ex1.png, id=370, 555.57562pt x 405.76593pt>
+File: ex1.png Graphic file (type png)
+<use ex1.png>
+Package pdftex.def Info: ex1.png  used on input line 377.
+(pdftex.def)             Requested size: 305.56752pt x 223.17195pt.
+
+[36 <./ex1.png>]
+<surf.png, id=378, 261.97874pt x 459.21562pt>
+File: surf.png Graphic file (type png)
+<use surf.png>
+Package pdftex.def Info: surf.png  used on input line 396.
+(pdftex.def)             Requested size: 120.51167pt x 211.24174pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
+ [37 <./surf.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
+ ("Notes on Multivariable Calculus.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 398.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 398.
+ ) 
+Here is how much of TeX's memory you used:
+ 7430 strings out of 480790
+ 111201 string characters out of 2895861
+ 374505 words of memory out of 3000000
+ 23146 multiletter control sequences out of 15000+200000
+ 543863 words of font info for 67 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,14n,33p,714b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Batu Cem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbsy10.pfb><C:/Users/Batu Cem/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/Batu Cem/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Batu Cem/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Batu Cem/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Batu Ce
+m/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
+ers/Batu Cem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Users/Batu Cem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Users/Batu Cem/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb><C:/Users/Batu Cem/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Batu Cem/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Batu Cem/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Batu Cem/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "Notes on Multivariable Calculus.pdf" (37 pages, 2350589 byte
+s).
+PDF statistics:
+ 619 PDF objects out of 1000 (max. 8388607)
+ 143 named destinations out of 1000 (max. 500000)
+ 565 words of extra memory for PDF output out of 10000 (max. 10000000)
+
